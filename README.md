@@ -1,6 +1,6 @@
 ## Analysis of Open Unemployment Rates in North Sumatera in 2022 Using Spatial Autoregression (SAR)
 
-![SAR](https://cdn.antaranews.com/cache/350x233/2013/06/20130627Bursa-Kerja-270613-af-2.jpg) <br>
+![SAR](https://cdn.antaranews.com/cache/350x233/2013/06/20130627Bursa-Kerja-270613-af-2.jpg)
 
 ### Introduction
 Spatial analysis plays a pivotal role in understanding the dynamics of socio-economic phenomena, particularly in regions like North Sumatra, Indonesia. In this project, we delve into the analysis of the Open Unemployment Rate (TPK) dataset for North Sumatra in the year 2022. Unemployment rates serve as crucial indicators of economic health, reflecting the labor market conditions and socio-economic disparities across different regions. By employing various spatial econometric methods, including Spatial Autoregression (SAR), Spatial Error Model (SEM), Spatial Durbin Model (SDM), Spatial Durbin Error Model (SDEM), Spatial Lag Model (SLX), Spatial Autoregressive Combined (SAC), and General Nested Spatial Model (GNSM), we aim to explore the spatial relationships and drivers of unemployment across different districts in North Sumatra.
